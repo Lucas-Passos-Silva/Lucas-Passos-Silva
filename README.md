@@ -1,6 +1,6 @@
-<h1>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;👋 Hi, I’m @Lucas-Passos-Silva </h1>
+<h1 align = "center">👋 Hi, I’m @Lucas-Passos-Silva </h1>
 
-<h3> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am High School/Thecnical student, I am improving my skills in database and front/backend. </h3>
+<h3 align = "center"> I am High School/Thecnical student, I am improving my skills in database and front/backend. </h3>
 
 
 <br>
